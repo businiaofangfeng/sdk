@@ -3,7 +3,7 @@
 
 ```javascript
 本项目是微信/QQ防封系统售卖系统运营版本。如果你的项目希望防止微信拦截，需要使用防封系统，请访问http://www.wechaturl.us
-使用api，请使用https://github.com/wanjunlengfeng/wechaturlcheckpreventingblockedapi.git
+使用api，请使用https://github.com/wechaturl/wechat_url_api.git
 ```
 
 ### 安装完成后得到的路径：
